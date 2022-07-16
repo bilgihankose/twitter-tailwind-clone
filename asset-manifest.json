@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/twitter-tailwind-clone/static/css/main.1bca3656.css",
+    "main.js": "/twitter-tailwind-clone/static/js/main.b1190bcb.js",
+    "index.html": "/twitter-tailwind-clone/index.html",
+    "main.1bca3656.css.map": "/twitter-tailwind-clone/static/css/main.1bca3656.css.map",
+    "main.b1190bcb.js.map": "/twitter-tailwind-clone/static/js/main.b1190bcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bca3656.css",
+    "static/js/main.b1190bcb.js"
+  ]
+}
